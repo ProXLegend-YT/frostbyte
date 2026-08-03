@@ -1,0 +1,12 @@
+{
+  "name": "frostbyte-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FrostByte — multi-model AI coding agent platform. Serverless API functions for Vercel.",
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "adm-zip": "^0.5.16",
+    "busboy": "^1.6.0"
+  }
+}
